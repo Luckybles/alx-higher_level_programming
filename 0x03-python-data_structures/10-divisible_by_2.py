@@ -6,4 +6,4 @@ def divisible_by_2(my_list=[]):
             update_list.append(True)
         else:
             update_list.append(False)
-        return update_list
+    return update_list
